@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madanyc
 - 👀 I’m interested in Blockchain projects...
-- 🌱 I’m currently learning Solidity, Cadence.
+- 🌱 I’m currently learning Solidity and reactJS.
 - 💞️ I’m looking to collaborate on Blockchain projects.
 - 📫 How to reach me @ madanyc@gmail.com...
 
